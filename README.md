@@ -10,7 +10,7 @@
 * [噪声标签](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%99%AA%E5%A3%B0%E6%A0%87%E7%AD%BE.md)
 * [多模态](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%A4%9A%E6%A8%A1%E6%80%81.md)
 * [实体扩展](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%AE%9E%E4%BD%93%E6%89%A9%E5%B1%95.md)
-* [性抽取&tag生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%B1%9E%E6%80%A7%E6%8A%BD%E5%8F%96%26tag%E7%94%9F%E6%88%90.md)
+* [属性抽取&tag生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%B1%9E%E6%80%A7%E6%8A%BD%E5%8F%96%26tag%E7%94%9F%E6%88%90.md)
 * [强化学习](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md)
 * [推荐&广告&搜索](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%8E%A8%E8%8D%90%26%E5%B9%BF%E5%91%8A%26%E6%90%9C%E7%B4%A2.md)
 * [文本分类](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB.md)
