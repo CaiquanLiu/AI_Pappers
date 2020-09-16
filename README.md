@@ -8,9 +8,6 @@
 * [中文分词](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D.md)
 * [主题模型](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%B8%BB%E9%A2%98%E6%A8%A1%E5%9E%8B.md)
 * [关键词提取](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%85%B3%E9%94%AE%E8%AF%8D%E6%8F%90%E5%8F%96.md)
-* [命名实体识别](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%91%BD%E5%90%8D%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB.md)
-* [实体扩展](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%AE%9E%E4%BD%93%E6%89%A9%E5%B1%95.md)
-* [属性抽取&tag生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%B1%9E%E6%80%A7%E6%8A%BD%E5%8F%96%26tag%E7%94%9F%E6%88%90.md)
 * [文本分类](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB.md)
 * [文本向量化](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E5%90%91%E9%87%8F%E5%8C%96.md)
 * [文本改写&生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E6%94%B9%E5%86%99%26%E7%94%9F%E6%88%90.md)
@@ -21,6 +18,9 @@
 * [闲聊对话](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%97%B2%E8%81%8A%E5%AF%B9%E8%AF%9D.md)
 
 ### 知识图谱
+* [命名实体识别](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%91%BD%E5%90%8D%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB.md)
+* [实体扩展](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%AE%9E%E4%BD%93%E6%89%A9%E5%B1%95.md)
+* [属性抽取&tag生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%B1%9E%E6%80%A7%E6%8A%BD%E5%8F%96%26tag%E7%94%9F%E6%88%90.md)
 
 ### 信息流
 * [推荐&广告&搜索](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%8E%A8%E8%8D%90%26%E5%B9%BF%E5%91%8A%26%E6%90%9C%E7%B4%A2.md)
