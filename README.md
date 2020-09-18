@@ -3,6 +3,7 @@
 ### 基础模型
 * [transformer](https://github.com/CaiquanLiu/AI_Pappers/blob/master/transformer.md)
 * [文本预训练模型](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B.md)
+* [图网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%BE%E7%BD%91%E7%BB%9C.md)
 
 ### 基础NLP任务
 * [中文分词](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D.md)
