@@ -13,6 +13,7 @@
 * [文本改写&生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E6%94%B9%E5%86%99%26%E7%94%9F%E6%88%90.md)
 * [文本检错&纠错](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E6%A3%80%E9%94%99%26%E7%BA%A0%E9%94%99.md)
 * [文本质量](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E8%B4%A8%E9%87%8F.md)
+* [摘要生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%91%98%E8%A6%81%E7%94%9F%E6%88%90.md)
 
 ### 闲聊对话
 * [闲聊对话](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%97%B2%E8%81%8A%E5%AF%B9%E8%AF%9D.md)
