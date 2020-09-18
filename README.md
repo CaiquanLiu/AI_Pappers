@@ -13,7 +13,6 @@
 * [文本向量化](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E5%90%91%E9%87%8F%E5%8C%96.md)
 * [文本改写&生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E6%94%B9%E5%86%99%26%E7%94%9F%E6%88%90.md)
 * [文本检错&纠错](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E6%A3%80%E9%94%99%26%E7%BA%A0%E9%94%99.md)
-* [文本质量](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E8%B4%A8%E9%87%8F.md)
 * [摘要生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%91%98%E8%A6%81%E7%94%9F%E6%88%90.md)
 
 ### 闲聊对话
@@ -28,6 +27,7 @@
 * [推荐&广告&搜索](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%8E%A8%E8%8D%90%26%E5%B9%BF%E5%91%8A%26%E6%90%9C%E7%B4%A2.md)
 * [概念标签](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%A6%82%E5%BF%B5%E6%A0%87%E7%AD%BE.md)
 * [评论生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AF%84%E8%AE%BA%E7%94%9F%E6%88%90.md)
+* [文本质量](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E8%B4%A8%E9%87%8F.md)
 
 ### 数据优化 
 * [主动学习](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%B8%BB%E5%8A%A8%E5%AD%A6%E4%B9%A0.md)
