@@ -1,6 +1,6 @@
 # 1 机器学习/深度学习
 ## 1.1 基础模型
-* [Transformer](https://github.com/CaiquanLiu/AI_Pappers/blob/master/transformer.md)
+* [Transformer](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Transformer.md)
 * [文本预训练模型](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B.md)
 * [Attention机制&网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Attention%E6%9C%BA%E5%88%B6%26%E7%BD%91%E7%BB%9C.md)
 * [图网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%BE%E7%BD%91%E7%BB%9C.md)
