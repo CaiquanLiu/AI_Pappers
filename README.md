@@ -4,8 +4,20 @@
 * [Transformer](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Transformer.md)
 * [文本预训练模型](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B.md)
 * [Attention机制&网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Attention%E6%9C%BA%E5%88%B6%26%E7%BD%91%E7%BB%9C.md)
-* [图网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%BE%E7%BD%91%E7%BB%9C.md)
+
+## 1.2 强化学习
 * [强化学习](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md)
+
+## 1.3 GAN
+
+## 1.4 图网络
+* [图网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%BE%E7%BD%91%E7%BB%9C.md)
+
+## 1.5 Meta Learning
+
+## 1.6 迁移学习
+
+## 1.7 AutoML
 
 # 2 自然语言处理/计算机视觉/智能语音
 ## 2.1 基础NLP任务
@@ -30,7 +42,7 @@
 # 3 应用
 ## 3.1 闲聊对话
 * [任务型对话](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%BB%BB%E5%8A%A1%E5%9E%8B%E5%AF%B9%E8%AF%9D.md)
-* [问答对话](https://github.com/CaiquanLiu/AI_Pappers/tree/master)
+* [问答对话](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%97%AE%E7%AD%94%E5%AF%B9%E8%AF%9D.md)
 * [闲聊对话](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%97%B2%E8%81%8A%E5%AF%B9%E8%AF%9D.md)
 * [图谱问答](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%BE%E8%B0%B1%E9%97%AE%E7%AD%94.md)
 * [对话策略](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%AF%B9%E8%AF%9D%E7%AD%96%E7%95%A5.md)
@@ -56,7 +68,7 @@
 * [半监督学习](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%8D%8A%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0.md)
 * [噪声标签](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%99%AA%E5%A3%B0%E6%A0%87%E7%AD%BE.md)
 * [样本不均衡](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%A0%B7%E6%9C%AC%E4%B8%8D%E5%9D%87%E8%A1%A1.md)
-* [迁移学习&领域适应](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%A2%86%E5%9F%9F%E9%80%82%E5%BA%94.md)
+* [迁移学习&领域适应](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%26%E9%A2%86%E5%9F%9F%E9%80%82%E5%BA%94.md)
 
 ## 4.2 模型加速
 * [知识蒸馏](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md)
