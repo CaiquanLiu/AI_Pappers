@@ -36,7 +36,9 @@
 ## 2.2 计算机视觉
 * [计算机视觉](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89.md)
 
-## 2.3 多模态
+## 2.3 智能语音
+
+## 2.4 多模态
 * [多模态](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%A4%9A%E6%A8%A1%E6%80%81.md)
 
 # （三） 应用
