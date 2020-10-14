@@ -19,7 +19,7 @@
 
 ## 1.7 AutoML
 
-# 2 自然语言处理/计算机视觉/智能语音
+# （二） 自然语言处理/计算机视觉/智能语音
 ## 2.1 基础NLP任务
 * [文本向量化](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E5%90%91%E9%87%8F%E5%8C%96.md)
 * [中文分词](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D.md)
@@ -39,7 +39,7 @@
 ## 2.3 多模态
 * [多模态](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%A4%9A%E6%A8%A1%E6%80%81.md)
 
-# 3 应用
+# （三） 应用
 ## 3.1 闲聊对话
 * [任务型对话](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%BB%BB%E5%8A%A1%E5%9E%8B%E5%AF%B9%E8%AF%9D.md)
 * [问答对话](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%97%AE%E7%AD%94%E5%AF%B9%E8%AF%9D.md)
@@ -61,7 +61,7 @@
 * [评论生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AF%84%E8%AE%BA%E7%94%9F%E6%88%90.md)
 * [文本质量](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E8%B4%A8%E9%87%8F.md)
 
-# 4 其他
+# （四） 其他
 ## 4.1 数据优化 
 * [主动学习](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%B8%BB%E5%8A%A8%E5%AD%A6%E4%B9%A0.md)
 * [数据增强](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%95%B0%E6%8D%AE%E5%A2%9E%E5%BC%BA.md)
