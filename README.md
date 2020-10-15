@@ -1,8 +1,8 @@
 # （一） 机器学习/深度学习
 ## 1.1 基础模型
 * [机器学习&深度学习综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%26%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BB%BC%E8%BF%B0.md)
+* [胶囊网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%83%B6%E5%9B%8A%E7%BD%91%E7%BB%9C.md)
 * [Transformer](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Transformer.md)
-* [文本预训练模型](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B.md)
 * [Attention机制&网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Attention%E6%9C%BA%E5%88%B6%26%E7%BD%91%E7%BB%9C.md)
 
 ## 1.2 强化学习
@@ -21,6 +21,7 @@
 
 # （二） 自然语言处理/计算机视觉/智能语音
 ## 2.1 基础NLP任务
+* [文本预训练模型](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B.md)
 * [文本向量化](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E5%90%91%E9%87%8F%E5%8C%96.md)
 * [中文分词](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D.md)
 * [关键词提取](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%85%B3%E9%94%AE%E8%AF%8D%E6%8F%90%E5%8F%96.md)
