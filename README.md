@@ -1,6 +1,6 @@
 # （一） 机器学习/深度学习
 ## 1.1 基础模型
-* [机器学习&深度学习综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%26%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BB%BC%E8%BF%B0.md)
+* [综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%26%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BB%BC%E8%BF%B0.md)
 * [胶囊网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%83%B6%E5%9B%8A%E7%BD%91%E7%BB%9C.md)
 * [Transformer](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Transformer.md)
 * [Attention机制&网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Attention%E6%9C%BA%E5%88%B6%26%E7%BD%91%E7%BB%9C.md)
@@ -57,8 +57,8 @@
 * [实体链接（消歧&归一化）](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%AE%9E%E4%BD%93%E9%93%BE%E6%8E%A5%EF%BC%88%E6%B6%88%E6%AD%A7%26%E5%BD%92%E4%B8%80%E5%8C%96%EF%BC%89.md)
 * [属性抽取&tag生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%B1%9E%E6%80%A7%E6%8A%BD%E5%8F%96%26tag%E7%94%9F%E6%88%90.md)
 
-## 3.3 信息流(推荐/广告/搜索)
-* [信息流综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%BF%A1%E6%81%AF%E6%B5%81%E7%BB%BC%E8%BF%B0.md)
+## 3.3 推荐/广告/搜索
+* [综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%BF%A1%E6%81%AF%E6%B5%81%E7%BB%BC%E8%BF%B0.md)
 * [推荐&广告&搜索](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%8E%A8%E8%8D%90%26%E5%B9%BF%E5%91%8A%26%E6%90%9C%E7%B4%A2.md)
 * [概念标签](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%A6%82%E5%BF%B5%E6%A0%87%E7%AD%BE.md)
 * [评论生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AF%84%E8%AE%BA%E7%94%9F%E6%88%90.md)
