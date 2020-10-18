@@ -20,7 +20,8 @@
 ## 1.7 AutoML
 
 # （二） 自然语言处理/计算机视觉/智能语音
-## 2.1 基础NLP任务
+## 2.1 自然语言处理
+* [综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%BB%BC%E8%BF%B0.md)
 * [文本预训练模型](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B.md)
 * [文本向量化](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E5%90%91%E9%87%8F%E5%8C%96.md)
 * [中文分词](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D.md)
