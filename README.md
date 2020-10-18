@@ -51,6 +51,7 @@
 * [对话策略](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%AF%B9%E8%AF%9D%E7%AD%96%E7%95%A5.md)
 
 ## 3.2 知识图谱
+* [综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E7%BB%BC%E8%BF%B0.md)
 * [命名实体识别](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%91%BD%E5%90%8D%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB.md)
 * [实体扩展](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%AE%9E%E4%BD%93%E6%89%A9%E5%B1%95.md)
 * [关系抽取](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96.md)
@@ -83,8 +84,8 @@
 ## 4.4 算法框架
 * [算法框架](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%AE%97%E6%B3%95%E6%A1%86%E6%9E%B6.md)
 
-## 4.5 Mis
-* [Mis](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Mis.md)
+## 4.5 其他
+* [其他](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Mis.md)
 
 
 
