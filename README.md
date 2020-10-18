@@ -16,6 +16,7 @@
 ## 1.5 Meta Learning
 
 ## 1.6 迁移学习
+* [迁移学习&领域适应](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%26%E9%A2%86%E5%9F%9F%E9%80%82%E5%BA%94.md)
 
 ## 1.7 AutoML
 
@@ -75,7 +76,6 @@
 * [半监督学习](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%8D%8A%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0.md)
 * [噪声标签](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%99%AA%E5%A3%B0%E6%A0%87%E7%AD%BE.md)
 * [样本不均衡](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%A0%B7%E6%9C%AC%E4%B8%8D%E5%9D%87%E8%A1%A1.md)
-* [迁移学习&领域适应](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%26%E9%A2%86%E5%9F%9F%E9%80%82%E5%BA%94.md)
 
 ## 4.2 模型加速
 * [知识蒸馏](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md)
