@@ -1,7 +1,6 @@
 # （一） 机器学习/深度学习
 ## 1.1 基础模型
 * [综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%26%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BB%BC%E8%BF%B0.md)
-* [胶囊网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%83%B6%E5%9B%8A%E7%BD%91%E7%BB%9C.md)
 * [Transformer](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Transformer.md)
 * [Attention机制&网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Attention%E6%9C%BA%E5%88%B6%26%E7%BD%91%E7%BB%9C.md)
 
@@ -23,6 +22,7 @@
 ## 1.8 因果推断
 
 ## 1.9 其他
+* [胶囊网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%83%B6%E5%9B%8A%E7%BD%91%E7%BB%9C.md)
 * [贝叶斯神经网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md)
 * [神经逻辑推理](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%A5%9E%E7%BB%8F%E9%80%BB%E8%BE%91%E6%8E%A8%E7%90%86.md)
 
