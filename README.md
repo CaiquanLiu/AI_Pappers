@@ -24,7 +24,7 @@
 
 ## 1.9 其他
 * [贝叶斯神经网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md)
-* [神经逻辑推理]()
+* [神经逻辑推理](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%A5%9E%E7%BB%8F%E9%80%BB%E8%BE%91%E6%8E%A8%E7%90%86.md)
 
 # （二） 自然语言处理/计算机视觉/智能语音
 ## 2.1 自然语言处理
