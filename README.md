@@ -7,7 +7,7 @@
 ## 1.2 强化学习
 * [强化学习](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md)
 
-## 1.3 对抗学习/GAN
+## 1.3 对抗训练/GAN
 
 ## 1.4 图网络
 * [图网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%BE%E7%BD%91%E7%BB%9C.md)
