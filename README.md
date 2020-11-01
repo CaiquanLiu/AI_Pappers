@@ -23,7 +23,7 @@
 ## 1.8 因果推断
 
 ## 1.9 其他
-* [贝叶斯神经网络]()
+* [贝叶斯神经网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md)
 * [神经逻辑推理]()
 
 # （二） 自然语言处理/计算机视觉/智能语音
