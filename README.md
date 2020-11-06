@@ -53,9 +53,10 @@
 # （三） 应用
 ## 3.1 闲聊对话
 * [任务型对话](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%BB%BB%E5%8A%A1%E5%9E%8B%E5%AF%B9%E8%AF%9D.md)
-* [问答对话](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%97%AE%E7%AD%94%E5%AF%B9%E8%AF%9D.md)
-* [闲聊对话](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%97%B2%E8%81%8A%E5%AF%B9%E8%AF%9D.md)
+* [QA对话](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%97%AE%E7%AD%94%E5%AF%B9%E8%AF%9D.md)
+* [闲聊对话&开放域问答](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%97%B2%E8%81%8A%E5%AF%B9%E8%AF%9D.md)
 * [图谱问答](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%BE%E8%B0%B1%E9%97%AE%E7%AD%94.md)
+* [检索型问答]()
 * [对话策略](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%AF%B9%E8%AF%9D%E7%AD%96%E7%95%A5.md)
 
 ## 3.2 知识图谱
