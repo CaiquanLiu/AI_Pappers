@@ -74,8 +74,10 @@
 ## 3.4 内容审核/内容质量
 * [文本审核&质量](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E8%B4%A8%E9%87%8F.md)
 
-# （四） 其他
+## 3.5 其他
 * [评论生成&改写](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AF%84%E8%AE%BA%E7%94%9F%E6%88%90.md)
+
+# （四） 其他
 
 ## 4.1 数据优化 
 * [主动学习](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%B8%BB%E5%8A%A8%E5%AD%A6%E4%B9%A0.md)
