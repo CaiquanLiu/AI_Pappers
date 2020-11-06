@@ -71,7 +71,9 @@
 * [推荐&广告&搜索](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%8E%A8%E8%8D%90%26%E5%B9%BF%E5%91%8A%26%E6%90%9C%E7%B4%A2.md)
 * [概念标签](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%A6%82%E5%BF%B5%E6%A0%87%E7%AD%BE.md)
 * [评论生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AF%84%E8%AE%BA%E7%94%9F%E6%88%90.md)
-* [文本质量](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E8%B4%A8%E9%87%8F.md)
+
+## 3.4 内容审核/内容质量
+* [文本审核&质量](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E8%B4%A8%E9%87%8F.md)
 
 # （四） 其他
 ## 4.1 数据优化 
