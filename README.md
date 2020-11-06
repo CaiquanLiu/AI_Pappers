@@ -2,7 +2,7 @@
 ## 1.1 基础模型
 * [综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%26%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BB%BC%E8%BF%B0.md)
 * [Transformer](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Transformer.md)
-* [Attention机制&网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Attention%E6%9C%BA%E5%88%B6%26%E7%BD%91%E7%BB%9C.md)
+* [Attention机制&指针网络&记忆网络&深度图灵机](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Attention%E6%9C%BA%E5%88%B6%26%E7%BD%91%E7%BB%9C.md)
 
 ## 1.2 强化学习
 * [强化学习](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md)
