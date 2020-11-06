@@ -70,12 +70,13 @@
 * [综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%BF%A1%E6%81%AF%E6%B5%81%E7%BB%BC%E8%BF%B0.md)
 * [推荐&广告&搜索](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%8E%A8%E8%8D%90%26%E5%B9%BF%E5%91%8A%26%E6%90%9C%E7%B4%A2.md)
 * [标签体系&标签扩展&兴趣标签&概念标签](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%A0%87%E7%AD%BE%E4%BD%93%E7%B3%BB%26%E6%A0%87%E7%AD%BE%E6%89%A9%E5%B1%95%26%E5%85%B4%E8%B6%A3%E6%A0%87%E7%AD%BE%26%E6%A6%82%E5%BF%B5%E6%A0%87%E7%AD%BE.md)
-* [评论生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AF%84%E8%AE%BA%E7%94%9F%E6%88%90.md)
 
 ## 3.4 内容审核/内容质量
 * [文本审核&质量](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E8%B4%A8%E9%87%8F.md)
 
 # （四） 其他
+* [评论生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AF%84%E8%AE%BA%E7%94%9F%E6%88%90.md)
+
 ## 4.1 数据优化 
 * [主动学习](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%B8%BB%E5%8A%A8%E5%AD%A6%E4%B9%A0.md)
 * [数据增强](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%95%B0%E6%8D%AE%E5%A2%9E%E5%BC%BA.md)
