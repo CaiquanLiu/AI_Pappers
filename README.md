@@ -65,12 +65,13 @@
 * [实体扩展](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%AE%9E%E4%BD%93%E6%89%A9%E5%B1%95.md)
 * [关系抽取](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96.md)
 * [实体链接（消歧&归一化）](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%AE%9E%E4%BD%93%E9%93%BE%E6%8E%A5%EF%BC%88%E6%B6%88%E6%AD%A7%26%E5%BD%92%E4%B8%80%E5%8C%96%EF%BC%89.md)
-* [属性抽取&tag生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%B1%9E%E6%80%A7%E6%8A%BD%E5%8F%96%26tag%E7%94%9F%E6%88%90.md)
+* [属性抽取](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%B1%9E%E6%80%A7%E6%8A%BD%E5%8F%96.md)
 
 ## 3.3 推荐/广告/搜索
 * [综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%BF%A1%E6%81%AF%E6%B5%81%E7%BB%BC%E8%BF%B0.md)
 * [推荐&广告&搜索](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%8E%A8%E8%8D%90%26%E5%B9%BF%E5%91%8A%26%E6%90%9C%E7%B4%A2.md)
 * [标签体系&标签扩展&兴趣标签&概念标签](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%A0%87%E7%AD%BE%E4%BD%93%E7%B3%BB%26%E6%A0%87%E7%AD%BE%E6%89%A9%E5%B1%95%26%E5%85%B4%E8%B6%A3%E6%A0%87%E7%AD%BE%26%E6%A6%82%E5%BF%B5%E6%A0%87%E7%AD%BE.md)
+* [标签生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%A0%87%E7%AD%BE%E7%94%9F%E6%88%90.md)
 
 ## 3.4 内容审核/内容质量
 * [文本审核&质量](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E8%B4%A8%E9%87%8F.md)
