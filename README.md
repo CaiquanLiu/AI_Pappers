@@ -46,6 +46,7 @@
 * [计算机视觉](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89.md)
 
 ## 2.3 智能语音
+* [智能语音](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%99%BA%E8%83%BD%E8%AF%AD%E9%9F%B3.md)
 
 ## 2.4 多模态
 * [多模态](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%A4%9A%E6%A8%A1%E6%80%81.md)
