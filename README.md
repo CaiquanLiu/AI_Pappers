@@ -21,7 +21,10 @@
 
 ## 1.8 因果推断
 
-## 1.9 其他
+## 1.9 常识AI（System1+System2）
+* [常识AI](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%B8%B8%E8%AF%86AI.md)
+
+## 1.10 其他
 * [胶囊网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%83%B6%E5%9B%8A%E7%BD%91%E7%BB%9C.md)
 * [贝叶斯神经网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md)
 * [神经逻辑推理](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%A5%9E%E7%BB%8F%E9%80%BB%E8%BE%91%E6%8E%A8%E7%90%86.md)
