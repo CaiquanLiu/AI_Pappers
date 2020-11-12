@@ -102,8 +102,8 @@
 ## 4.3 模型可解释性
 * [模型可解释性](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%A8%A1%E5%9E%8B%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%80%A7.md)
 
-## 4.4 算法框架
-* [算法框架](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%AE%97%E6%B3%95%E6%A1%86%E6%9E%B6.md)
+## 4.4 算法框架/工具
+* [算法框架&工具](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%AE%97%E6%B3%95%E6%A1%86%E6%9E%B6.md)
 
 ## 4.5 其他
 * [其他](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Mis.md)
