@@ -89,8 +89,10 @@
 ## 4.1 数据优化 
 * [主动学习](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%B8%BB%E5%8A%A8%E5%AD%A6%E4%B9%A0.md)
 * [数据增强](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%95%B0%E6%8D%AE%E5%A2%9E%E5%BC%BA.md)
-* [半监督学习](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%8D%8A%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0.md)
 * [噪声标签](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%99%AA%E5%A3%B0%E6%A0%87%E7%AD%BE.md)
+* [无监督&自监督](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%97%A0%E7%9B%91%E7%9D%A3%26%E8%87%AA%E7%9B%91%E7%9D%A3.md)
+* [半监督学习](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%8D%8A%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0.md)
+* [多标签残缺](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%A4%9A%E6%A0%87%E7%AD%BE%E6%AE%8B%E7%BC%BA.md)
 * [样本不均衡](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%A0%B7%E6%9C%AC%E4%B8%8D%E5%9D%87%E8%A1%A1.md)
 
 ## 4.2 模型加速
