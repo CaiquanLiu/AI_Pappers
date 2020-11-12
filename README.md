@@ -40,10 +40,10 @@
 * [文本分类](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB.md)
 * [情感分析](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90.md)
 * [主题模型](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%B8%BB%E9%A2%98%E6%A8%A1%E5%9E%8B.md)
-* [文本改写&生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E6%94%B9%E5%86%99%26%E7%94%9F%E6%88%90.md)
-* [摘要生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%91%98%E8%A6%81%E7%94%9F%E6%88%90.md)
-* [文本检错&纠错](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E6%A3%80%E9%94%99%26%E7%BA%A0%E9%94%99.md)
 * [阅读理解](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%98%85%E8%AF%BB%E7%90%86%E8%A7%A3.md)
+* [文本改写&生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E6%94%B9%E5%86%99%26%E7%94%9F%E6%88%90.md)
+* [文本检错&纠错](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E6%A3%80%E9%94%99%26%E7%BA%A0%E9%94%99.md)
+* [摘要生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%91%98%E8%A6%81%E7%94%9F%E6%88%90.md)
 
 ## 2.2 计算机视觉
 * [计算机视觉](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89.md)
