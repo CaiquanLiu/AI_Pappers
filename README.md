@@ -20,6 +20,7 @@
 ## 1.7 AutoML
 
 ## 1.8 因果推断
+* [因果推断](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%A0%E6%9E%9C%E6%8E%A8%E6%96%AD.md)
 
 ## 1.9 常识AI（System1+System2）
 * [常识AI](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%B8%B8%E8%AF%86AI.md)
