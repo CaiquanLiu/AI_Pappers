@@ -57,7 +57,7 @@
 * [序列特征处理](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%BA%8F%E5%88%97%E7%89%B9%E5%BE%81%E5%A4%84%E7%90%86.md)
 
 # （三） 应用
-## 3.1 闲聊对话
+## 3.1 对话系统
 * [任务型对话](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%BB%BB%E5%8A%A1%E5%9E%8B%E5%AF%B9%E8%AF%9D.md)
 * [QA对话](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%97%AE%E7%AD%94%E5%AF%B9%E8%AF%9D.md)
 * [闲聊对话&开放域问答](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%97%B2%E8%81%8A%E5%AF%B9%E8%AF%9D.md)
