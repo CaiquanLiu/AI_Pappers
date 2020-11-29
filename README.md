@@ -63,7 +63,7 @@
 * [闲聊对话&开放域问答](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%97%B2%E8%81%8A%E5%AF%B9%E8%AF%9D.md)
 * [图谱问答](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%BE%E8%B0%B1%E9%97%AE%E7%AD%94.md)
 * [检索型问答]()
-* [对话策略](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%AF%B9%E8%AF%9D%E7%AD%96%E7%95%A5.md)
+* [对话评估&强化学习](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%AF%B9%E8%AF%9D%E7%AD%96%E7%95%A5.md)
 
 ## 3.2 知识图谱
 * [综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E7%BB%BC%E8%BF%B0.md)
