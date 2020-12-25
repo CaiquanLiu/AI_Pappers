@@ -22,6 +22,7 @@
 * [领域适应](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%A2%86%E5%9F%9F%E9%80%82%E5%BA%94.md)
 
 ## 1.8 AutoML
+* [AutoML](https://github.com/CaiquanLiu/AI_Pappers/blob/master/AutoML.md)
 
 ## 1.9 因果推断
 * [因果推断](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%A0%E6%9E%9C%E6%8E%A8%E6%96%AD.md)
