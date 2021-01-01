@@ -59,6 +59,8 @@
 
 ## 2.4 多模态
 * [多模态](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%A4%9A%E6%A8%A1%E6%80%81.md)
+
+## 2.5 其他
 * [序列特征处理](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%BA%8F%E5%88%97%E7%89%B9%E5%BE%81%E5%A4%84%E7%90%86.md)
 
 # （三） 应用
