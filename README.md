@@ -42,7 +42,7 @@
 
 # （二） 自然语言处理/计算机视觉/智能语音
 ## 2.1 自然语言处理
-* [综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%BB%BC%E8%BF%B0.md)
+* [自然语言处理综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%BB%BC%E8%BF%B0.md)
 * [文本预训练模型](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B.md)
 * [文本向量化](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E5%90%91%E9%87%8F%E5%8C%96.md)
 * [中文分词](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D.md)
@@ -80,7 +80,7 @@
 * [对话评估&强化学习](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%AF%B9%E8%AF%9D%E7%AD%96%E7%95%A5.md)
 
 ## 3.2 知识图谱
-* [综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E7%BB%BC%E8%BF%B0.md)
+* [知识图谱综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E7%BB%BC%E8%BF%B0.md)
 * [命名实体识别](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%91%BD%E5%90%8D%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB.md)
 * [实体扩展](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%AE%9E%E4%BD%93%E6%89%A9%E5%B1%95.md)
 * [关系抽取](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96.md)
