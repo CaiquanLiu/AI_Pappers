@@ -124,8 +124,8 @@
 ## 4.5 其他
 * [其他](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Mis.md)
 
-# （五） 论文汇总
-* [论文汇总]（https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AE%BA%E6%96%87%E6%B1%87%E6%80%BB.md）
+# （五） 论文总目录
+* [论文总目录](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AE%BA%E6%96%87%E6%B1%87%E6%80%BB.md）
 
 
 
