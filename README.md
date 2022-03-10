@@ -119,7 +119,7 @@
 * [噪声标签](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%99%AA%E5%A3%B0%E6%A0%87%E7%AD%BE.md)
 
 ## 4.2 特征融合（表格特征）
-* [特征融合]()
+* [特征融合](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%89%B9%E5%BE%81%E8%9E%8D%E5%90%88.md)
 
 ## 4.3 模型可解释性
 * [模型可解释性](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%A8%A1%E5%9E%8B%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%80%A7.md)
