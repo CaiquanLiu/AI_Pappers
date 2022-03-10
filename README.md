@@ -127,11 +127,11 @@
 ## 4.4 算法框架/工具
 * [算法框架&工具](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%AE%97%E6%B3%95%E6%A1%86%E6%9E%B6.md)
 
-## 4.2 模型加速
+## 4.5 模型加速
 * [知识蒸馏](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md)
 * [量化加速](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%87%8F%E5%8C%96%E5%8A%A0%E9%80%9F.md)
 
-## 4.5 其他
+## 4.6 其他
 * [其他](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Mis.md)
 
 # （五） 论文总目录
