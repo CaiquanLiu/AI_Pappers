@@ -118,15 +118,18 @@
 * [样本不均衡](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%A0%B7%E6%9C%AC%E4%B8%8D%E5%9D%87%E8%A1%A1.md)
 * [噪声标签](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%99%AA%E5%A3%B0%E6%A0%87%E7%AD%BE.md)
 
-## 4.2 模型加速
-* [知识蒸馏](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md)
-* [量化加速](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%87%8F%E5%8C%96%E5%8A%A0%E9%80%9F.md)
+## 4.2 特征融合（表格特征）
+* [特征融合]()
 
 ## 4.3 模型可解释性
 * [模型可解释性](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%A8%A1%E5%9E%8B%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%80%A7.md)
 
 ## 4.4 算法框架/工具
 * [算法框架&工具](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%AE%97%E6%B3%95%E6%A1%86%E6%9E%B6.md)
+
+## 4.2 模型加速
+* [知识蒸馏](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md)
+* [量化加速](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%87%8F%E5%8C%96%E5%8A%A0%E9%80%9F.md)
 
 ## 4.5 其他
 * [其他](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Mis.md)
