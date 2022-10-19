@@ -55,6 +55,7 @@
 * [文本改写&生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E6%94%B9%E5%86%99%26%E7%94%9F%E6%88%90.md)
 * [文本检错&纠错](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E6%A3%80%E9%94%99%26%E7%BA%A0%E9%94%99.md)
 * [摘要生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%91%98%E8%A6%81%E7%94%9F%E6%88%90.md)
+* [通用/统一信息抽取]()
 
 ## 2.2 计算机视觉
 * [图片分类](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%BE%E7%89%87%E5%88%86%E7%B1%BB.md)
@@ -104,7 +105,7 @@
 ## 3.4 内容审核/内容质量
 * [文本审核&质量](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E8%B4%A8%E9%87%8F.md)
 
-## 3.5 其他
+## 3.5 生成改写
 * [评论生成&改写](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AF%84%E8%AE%BA%E7%94%9F%E6%88%90.md)
 
 # （四） 其他
