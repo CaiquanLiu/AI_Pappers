@@ -107,7 +107,7 @@
 
 ## 3.5 生成改写
 * [评论生成&改写](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AF%84%E8%AE%BA%E7%94%9F%E6%88%90.md)
-* [小说&剧本]()
+* [小说&剧本](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%B0%8F%E8%AF%B4%26%E5%89%A7%E6%9C%AC.md)
 
 # （四） 其他
 
