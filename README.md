@@ -57,6 +57,7 @@
 * [摘要生成](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%91%98%E8%A6%81%E7%94%9F%E6%88%90.md)
 * [通用/统一信息抽取](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%80%9A%E7%94%A8%E4%BF%A1%E6%81%AF%E6%8A%BD%E5%8F%96.md)
 * [通用基础大语言模型](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md)
+* [ALM/PromptLearning/PromptEngineering](https://github.com/CaiquanLiu/AI_Pappers/blob/master/ALM-PromptEngineering-PrompLearning.md)
 
 ## 2.2 计算机视觉
 * [图片分类](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%BE%E7%89%87%E5%88%86%E7%B1%BB.md)
