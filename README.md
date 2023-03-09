@@ -14,8 +14,8 @@
 * [对抗攻击](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%AF%B9%E6%8A%97%E6%94%BB%E5%87%BB.md)
 ## 1.4 GAN
 
-## 1.5 图网络
-* [图网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%BE%E7%BD%91%E7%BB%9C.md)
+## 1.5 图神经网络
+* [图神经网络](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%BE%E7%BD%91%E7%BB%9C.md)
 
 ## 1.6 Meta Learning
 * [Meta Learning](https://github.com/CaiquanLiu/AI_Pappers/blob/master/meta_learning.md)
