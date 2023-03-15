@@ -75,7 +75,11 @@
 * [智能语音](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%99%BA%E8%83%BD%E8%AF%AD%E9%9F%B3.md)
 
 ## 2.4 多模态
-* [多模态](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%A4%9A%E6%A8%A1%E6%80%81.md)
+* [多模态表征](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%A4%9A%E6%A8%A1%E6%80%81.md)
+* [文生图](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E7%94%9F%E5%9B%BE.md)
+* [图生文](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%BE%E7%94%9F%E6%96%87.md)
+* [图文问答](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%BE%E6%96%87%E9%97%AE%E7%AD%94.md)
+* [跨模态检索](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%B7%A8%E6%A8%A1%E6%80%81%E6%A3%80%E7%B4%A2.md)
 
 ## 2.5 其他
 * [序列特征处理](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%BA%8F%E5%88%97%E7%89%B9%E5%BE%81%E5%A4%84%E7%90%86.md)
