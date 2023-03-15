@@ -135,7 +135,12 @@
 * [知识蒸馏](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F.md)
 * [量化加速](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%87%8F%E5%8C%96%E5%8A%A0%E9%80%9F.md)
 
-## 4.6 其他
+
+## 4.6 训练/推理加速
+* [训练加速](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AE%AD%E7%BB%83%E5%8A%A0%E9%80%9F.md)
+* [推理加速](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%8E%A8%E7%90%86%E5%8A%A0%E9%80%9F.md)
+
+## 4.7 其他
 * [其他](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Mis.md)
 
 # （五） 论文总目录
