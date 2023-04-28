@@ -8,6 +8,8 @@
 | 《Learning by Distilling Context》| arxiv2022 | 上下文蒸馏：<br/>1 给大模型更多的输入提示，同时，要求大模型的输出理由和结果；<br/>2 给小模型输入较少的提示，直接输出最终结果；<br/>3 感觉核心就是通过提示让大模型输出的结果更置信，效果肯定没有纯人工构造的数据好（但机器的效率高）；| NULL | NULL |
 | 《HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face》| arXiv2023| 基于ChatGPT和HuggingFace模型接口实现多模型中控（基于gpt-3.5-turbo 和 text-davinci-003模型）：<br/>1 核心目标，将用户原始query通过LLM转变成执行的任务，并最终汇总任务结果，产生回复；<br/>2 核心步骤，Task Planning、Model Selection、Task Execution、Response Generation；<br/>3 整体感觉和之前微软用语言模型控制机器人的设计思路是基本一致的；<br/>4 感觉过于理想，应用在工业场景不一定可靠（Limitations部分提到了不稳定，但感觉表述的还是有些轻描淡写了）； | NULL | NULL |
 | 《REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS》| ICLR2023| 谷歌的ReAct：使用大模型作为控制中心（主要是基于3~6个few-shot的示例prompt引导后续的模型行为）：<br/>1 主要基于PaLM-540B进行的实验（也部分对比了GPT-3，text-davinci-002）；<br/>2 虽然摘要里提到相比模拟和强化学习的方案有34%和10%的提升，但最的结果也挺一般的；<br/>3 做了基于PaLM-8/62B的Finetuning，这个效果整体感觉还不错；| NULL | NULL |
+| 《WebGPT: Browser-assisted question-answering with human feedback》| arxiv2022| OpenAI的WebGPT：<br/>1 基于GPT-3，借助搜索工具，提升模型的问答能力；<br/>2 核心方法：Behavior cloning（BC）、Reward modeling（RM）、Reinforcement learning（RL）、Reject sampling（best-of-n）；<br/>3 生成结果的引用是直接生成的，没有特别的处理(比如xxxx[1]，其中xxx来自文章1)| NULL | NULL |
+| 《Tool Learning with Foundation Models》| arxiv2023| 大模型使用工具的综述文章：<br/>1 提出Tool Learning；<br/>2 主要聚焦在Tool-augmented Learning和Tool-oriented Learning两个方面；<br/>3 对比了text-davinci-003和ChatGPT工具使用的情况；| NULL | NULL |
 | NULL  | NULL |NULL |NULL |NULL |
 | NULL  | NULL |NULL |NULL |NULL |
 | NULL  | NULL |NULL |NULL |NULL |
