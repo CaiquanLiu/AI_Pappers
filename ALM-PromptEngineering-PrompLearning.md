@@ -10,6 +10,7 @@
 | 《REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS》| ICLR2023| 谷歌的ReAct：使用大模型作为控制中心（主要是基于3~6个few-shot的示例prompt引导后续的模型行为）：<br/>1 主要基于PaLM-540B进行的实验（也部分对比了GPT-3，text-davinci-002）；<br/>2 虽然摘要里提到相比模拟和强化学习的方案有34%和10%的提升，但最的结果也挺一般的；<br/>3 做了基于PaLM-8/62B的Finetuning，这个效果整体感觉还不错；| NULL | NULL |
 | 《WebGPT: Browser-assisted question-answering with human feedback》| arxiv2022| OpenAI的WebGPT：<br/>1 基于GPT-3，借助搜索工具，提升模型的问答能力；<br/>2 核心方法：Behavior cloning（BC）、Reward modeling（RM）、Reinforcement learning（RL）、Reject sampling（best-of-n）；<br/>3 生成结果的引用是直接生成的，没有特别的处理(比如xxxx[1]，其中xxx来自文章1)| NULL | NULL |
 | 《Tool Learning with Foundation Models》| arxiv2023| 大模型使用工具的综述文章：<br/>1 提出Tool Learning；<br/>2 主要聚焦在Tool-augmented Learning和Tool-oriented Learning两个方面；<br/>3 对比了text-davinci-003和ChatGPT工具使用的情况；| NULL | NULL |
+| 《Toolformer: Language Models Can Teach Themselves to Use Tools》| arxiv2023| Meta的ToolFormer：<br/>1 模型自动选择API和填充API的输入，结合API结果获得最终的答案；<br/>2 主要完成类似完形填空的任务，对真实场景的任务感觉借鉴意义不大；<br/>3 结合语言模型的能力自动构建训练集，并实现模型的FineTuning（设计比较巧妙）；<br/>4 主要基于GPT-J进行试验（124M、355M、775M、1.6B），同时，对比了OPT-66B和GPT-3-175B的结果；| NULL | NULL |
 | NULL  | NULL |NULL |NULL |NULL |
 | NULL  | NULL |NULL |NULL |NULL |
 | NULL  | NULL |NULL |NULL |NULL |
