@@ -1,3 +1,5 @@
+* [论文总目录](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AE%BA%E6%96%87%E6%B1%87%E6%80%BB.md)
+
 # （一） 机器学习/深度学习
 ## 1.1 基础模型
 * [综述](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%26%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BB%BC%E8%BF%B0.md)
@@ -60,6 +62,7 @@
 * [大模型增强与应用（ALM）](https://github.com/CaiquanLiu/AI_Pappers/blob/master/ALM-PromptEngineering-PrompLearning.md)
 
 ## 2.2 计算机视觉
+* [图像预训练模型](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%BE%E5%83%8F%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B.md)
 * [图片分类](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%9B%BE%E7%89%87%E5%88%86%E7%B1%BB.md)
 * [目标检测](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B.md)
 * [语义分割](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2.md)
@@ -147,8 +150,7 @@
 ## 4.7 其他
 * [其他](https://github.com/CaiquanLiu/AI_Pappers/blob/master/Mis.md)
 
-# （五） 论文总目录
-* [论文总目录](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E8%AE%BA%E6%96%87%E6%B1%87%E6%80%BB.md)
+
 
 
 
