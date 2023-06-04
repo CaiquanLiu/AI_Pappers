@@ -11,6 +11,7 @@
 | 《WebGPT: Browser-assisted question-answering with human feedback》| arxiv2022| OpenAI的WebGPT：<br/>1 基于GPT-3，借助搜索工具，提升模型的问答能力；<br/>2 核心方法：Behavior cloning（BC）、Reward modeling（RM）、Reinforcement learning（RL）、Reject sampling（best-of-n）；<br/>3 生成结果的引用是直接生成的，没有特别的处理(比如xxxx[1]，其中xxx来自文章1)| NULL | NULL |
 | 《Tool Learning with Foundation Models》| arxiv2023| 大模型使用工具的综述文章：<br/>1 提出Tool Learning；<br/>2 主要聚焦在Tool-augmented Learning和Tool-oriented Learning两个方面；<br/>3 对比了text-davinci-003和ChatGPT工具使用的情况；| NULL | NULL |
 | 《Toolformer: Language Models Can Teach Themselves to Use Tools》| arxiv2023| Meta的ToolFormer：<br/>1 模型自动选择API和填充API的输入，结合API结果获得最终的答案；<br/>2 主要完成类似完形填空的任务，对真实场景的任务感觉借鉴意义不大；<br/>3 结合语言模型的能力自动构建训练集，并实现模型的FineTuning（设计比较巧妙）；<br/>4 主要基于GPT-J进行试验（124M、355M、775M、1.6B），同时，对比了OPT-66B和GPT-3-175B的结果；| NULL | NULL |
+| 《Unlimiformer: Long-Range Transformers with Unlimited Length Input》 | arxiv2023| 解决长文本输入的Unlimiformer：<br/>1 主要应用于Encoder-Decoder场景；<br/>2 先从长文本中检索相关信息，然后，再进行生成生成，过程是动态的；<br/>3 在测试集效果提升上不明显，主要原因是传统的评估手段不能很好的体现出优势（用Entity mentions等方法就比较明显了）； | NULL | NULL |
 | NULL  | NULL |NULL |NULL |NULL |
 | NULL  | NULL |NULL |NULL |NULL |
 | NULL  | NULL |NULL |NULL |NULL |
