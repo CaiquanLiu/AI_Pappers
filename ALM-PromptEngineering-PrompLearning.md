@@ -1,5 +1,6 @@
 |名称  |  来源   | 说明  |状态   | 备注  |
 |  ----  | ----  |----  | ----  |----  |
+|《ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models》| arxiv2023| ReWOO：一种大模型使用工具的优化框架<br/>1 对标ReAct框架，先整体规划执行步骤，然后，再分别调用外部接口，通过调用LLM两次就能获得最终结果；<br/>2 基于LLaMa-7B进行微调，在部分场景效果超过GPT-3.5<br/>3 随着工具变多，效果下降明显；<br/>4 整体的最终结果一般，最好的ACC也只有70%； | NULL | https://mp.weixin.qq.com/s/8cEBOwUyG0zGlC74IuFNeg |
 | 《Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models》| arxiv2022| 清华的Open Delta：<br/>1 关于Delta tuning的综述（大多数预训练参数不变，进行少量参数优化）；<br/>2 解决大模型低成本适配下游任务问题；<br/>3 讲方法总结为三类，Addition-based Methods、Specification-based Methods、Reparameterization-based Methods ；| NULL | GitHub - thunlp/OpenDelta: A plug-and-play library for parameter-efficient-tuning (Delta Tuning) |
 | 《OpenPrompt: An Open-source Framework for Prompt-learning》 | arxiv2021 | 清华的OpenPrompt：<br/>1 Prompt Learning的工具包；<br/>2 和OpenDelta是一个团队（OpenPrompt更早）。OpenPrompt主要聚焦在prompt上，而OpenDelta主要聚焦在Delta-Tuning（大模型适配层或者中间层优化）； | NULL | https://zhuanlan.zhihu.com/p/607206925 |
 | 《Augmented Language Models: a Survey》 | arxiv2023 | ALM：<br/>1 Yann LeCun参与的关于“增强语言模型”的综述;<br/>2 主要聚焦在Reason、Tools、Act；; | NULL | https://mp.weixin.qq.com/s/oCs4R-xYGS42iXIvgnDCCg |
