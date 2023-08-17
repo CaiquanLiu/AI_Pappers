@@ -3,6 +3,7 @@
 # （零） 大模型/AIGC/AGI
 ## 1.1 文本大模型
 * [文本预训练模型（PTLM）](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B.md)
+* [文本长度扩展](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E6%96%87%E6%9C%AC%E9%95%BF%E5%BA%A6%E6%89%A9%E5%B1%95.md)
 * [MOE](https://github.com/CaiquanLiu/AI_Pappers/blob/master/MOE.md)
 * [通用基础大语言模型（LLM）](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md)
 * [文本大模型增强与应用（ALM）](https://github.com/CaiquanLiu/AI_Pappers/blob/master/ALM-PromptEngineering-PrompLearning.md)
