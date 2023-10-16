@@ -1,5 +1,8 @@
 |名称  |  来源   | 说明  |状态   | 备注  |
 |  ----  | ----  |----  | ----  |----  |
+| NULL  | NULL |NULL |NULL |NULL |
+| NULL  | NULL |NULL |NULL |NULL |
+| 《A Survey on Large Language Model based Autonomous Agents》| arxiv2023| 人大高领人工智能学院发布的AI Agent综述：<br/>1 提出统一Agent框架：Profile、Memory、Planning、Action<br/>2 整体上和OpenAI研究院的那篇综述有些像，涵盖面比较全，但各个部分感觉比较割裂；<br/>3 Planning和Action的核心边界是什么？在实际应用场景中是如何协同的？| NULL | https://mp.weixin.qq.com/s/ZlX-U9OByMBou1JPrhG3Xw |
 | 《Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models》| arxiv2023| 工具使用描述的探索：<br/>1 中心思想就是直接对API定义，比给API的使用示例效果更好；<br/>2 在有API定义的情况下，再做Demo的示例效果不明显；| NULL | NULL |
 | 《ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings》| arxiv2023| 解决工具较多场景下的工具使用问题：<br/>1 将工具指定成特殊的Token，然后，在生成阶段预测这些工具（特殊的Token）；<br/>2 主干的大模型是Frozen的，只会微调这些特殊工具Token的嵌入；<br/>3 在数学、问答和任务编排场景进行了验证；<br/>4 看题目以为是用于工具的选择，实际上是直接的工具使用；<br/>5 总体上，感觉可用性并不高。主要是单纯的工具Token嵌入部分的微调，很难真正的理解并记忆工具信息。同时，因为模型不是整体训练的，语义上应该也不是一个整体；| NULL | NULL |
 | 《Making Language Models Better Tool Learners with Execution Feedback》| arxiv2023| 基于结果反馈训练语言模型的工具使用能力：<br/>1 基于Alpaca-7B实现；<br/>2 使用了结果反馈信息，但没有用强化学习，但使用了RM模型；<br/>3 基于单工具实现，验证场景是解数学问题（这个场景的反馈奖励好收集）；<br/>4 核心原理是一个请求，同时跑多个模型（ChatGPT、Alpaca、LLaMA等），然后，将不同模型的结果和GoldAnser计算一个归一的Score，最后把不同模型的结果Score的两两对比作为Loss信息；<br/>5 总体上，效果有提升，但也不是很大（对比SFT，3个点以内），而且，工作主要集中在解决数据题上，Score相对好收集，真实的业务场景结果比较多样，Score不一定好收集，复用到其他场景不是很容易；| NULL | NULL |
