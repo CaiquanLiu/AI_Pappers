@@ -7,6 +7,7 @@
 * [MOE](https://github.com/CaiquanLiu/AI_Pappers/blob/master/MOE.md)
 * [通用基础大语言模型（LLM）](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.md)
 * [文本大模型增强与应用（ALM）](https://github.com/CaiquanLiu/AI_Pappers/blob/master/ALM-PromptEngineering-PrompLearning.md)
+* [文本大模型评测](https://github.com/CaiquanLiu/AI_Pappers/blob/master/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%84%E6%B5%8B.md)
 ## 1.2 图像大模型
 ## 1.3 语音大模型
 ## 1.4 多模态大模型
